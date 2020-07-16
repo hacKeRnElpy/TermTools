@@ -7,6 +7,9 @@ echo -e "made by hacKeRnElpy & Andrey-oss"
 echo -e ""
 edat=$(date +"%y-%m-%d")
 echo "date: "$edat
+
+name=$(whoami)
+echo -e "hi "$name
 echo -e ""
 echo -e "[1]DDoS"
 echo -e "[2]Vim"
